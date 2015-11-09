@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mon_Ngon_App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_search__main">Search_MainActivity</string>
+    <string name="title_activity_noi__bat__main">Noi_Bat_MainActivity</string>
+    <string name="title_activity_sale_off__main">SaleOff_MainActivity</string>
+
+</resources>
